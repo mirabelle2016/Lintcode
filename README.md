@@ -1,2 +1,2 @@
 # Lintcode
-Lintcode_practice
+Medium questions
