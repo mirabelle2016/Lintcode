@@ -1,3 +1,4 @@
+/* This is not a really lintcode question, it's a practice for two digit range of LargestNumber question*/
 package lintcode;
 
 import java.util.ArrayList;
